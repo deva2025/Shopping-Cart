@@ -24,7 +24,8 @@ A Shopping Cart is a script that allows users to add and remove items from a car
 - JavaScript
 - Ionicons
 - Google Fonts (Poppins)
-
+  
+![Screenshot (227)](https://github.com/deva2025/Shopping-Cart/assets/166497101/c4c7bfe1-4d51-4a0c-bf65-e2ca570073d0)
 
 
 ## Features
